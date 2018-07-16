@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B99E858A-4508-D293-851B-FEA1D2164F49}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TESTGit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
